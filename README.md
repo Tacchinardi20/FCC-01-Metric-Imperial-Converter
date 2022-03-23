@@ -1,2 +1,1 @@
-# FCC-01-Metric-Imperial-Converter
-freeCodeCamp-Quality-Assurance-Projects-01 Metric-Imperial Converter
+# [Metric-Imperial Converter](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter)
